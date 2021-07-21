@@ -30,7 +30,7 @@ int main() {
   else
   amount=30*50 +(d-30)*40;
 
-  printf("Total amount : %.2f",amount);
+  printf("Total amount : Rs.%.2f",amount);
   
   return 0;
 }
